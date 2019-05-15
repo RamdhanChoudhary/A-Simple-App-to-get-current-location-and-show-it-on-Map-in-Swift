@@ -4,6 +4,8 @@ A Simple Application to get current location and show it on Map, written in Swif
 
 TODO: Make sure you must add following privacy permissions in plist file
 
+------------------------------------------------
+
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Description</string>
 
@@ -13,6 +15,7 @@ TODO: Make sure you must add following privacy permissions in plist file
 <key>NSLocationAlwaysUsageDescription</key>
 <string>Description</string>
 
+-------------------------------------------------
 
 
 
